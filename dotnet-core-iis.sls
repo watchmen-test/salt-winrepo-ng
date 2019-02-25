@@ -2,7 +2,7 @@
 
 dotnet-core-iis:
   '2.2.2':
-    full_name: 'Microsoft .NET Core 2.2.2'
+    full_name: 'Microsoft .NET Core 2.2.2 - Windows Server Hosting'
     installer: '{{ SOURCE_PATH }}'
     install_flags: '/install /quiet'
     uninstaller: '{{ SOURCE_PATH }}'
