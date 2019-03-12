@@ -1,6 +1,6 @@
 graylog-sidecar-collector:
   '0.1.8':
-    installer: 'salt://apps/graylog/collector_sidecar_installer_0.1.8-1.exe'
+    installer: 'salt://win/repo-ng/devservices-salt-winrepo/apps/graylog/collector_sidecar_installer_0.1.8-1.exe'
     full_name: Graylog Collector Sidecar
     locale: en_US
     reboot: False
